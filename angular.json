@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/kp",
+            "outputPath": "dist/angular-typescript-backend-mongodb-tutorial",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
